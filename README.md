@@ -1,2 +1,2 @@
 # PROJECTWEB
-An ecommerce website
+An ecommerce website and a web dev project
